@@ -1,2 +1,4 @@
 
-class OrderSerializer < ActiveModel::Serializer 
+class OrderSerializer < ActiveModel::Serializer
+
+end 
