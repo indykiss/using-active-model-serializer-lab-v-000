@@ -4,5 +4,4 @@ class OrderSerializer < ActiveModel::Serializer
     belongs_to :orders
     belongs_to :products 
 
-
 end
